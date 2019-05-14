@@ -1,0 +1,12 @@
+Added Component: Designator=D?(LED-1)
+Added Component: Designator=R?(AXIAL-0.4)
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=R?-2
+Added Net: Name=NetD?_1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Net: Name=VCC
+Added Member To Class: ClassName=scm-1 Member=Component D? LED1
+Added Member To Class: ClassName=scm-1 Member=Component R? Res2
+Added Room: Name=scm-1
